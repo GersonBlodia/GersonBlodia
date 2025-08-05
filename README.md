@@ -1,32 +1,33 @@
-# Hola 💬
+💬# Hello World! 👋💻 ![logo1](https://i.pinimg.com/originals/0e/05/5b/0e055bd6fc948f460fe50aa193ac36e6.jpg)
+
 ![logo1](https://i.pinimg.com/originals/0e/05/5b/0e055bd6fc948f460fe50aa193ac36e6.jpg)
 
-Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
-
-Encuéntrame en la web 🌎:
-- Aprender en público en <a href="https://www.twitch.tv">Facebook</a> or <a href="https://www..">Vera.dev</a> 📹 ✍🏾
-- Experimentando con las interacciones <a href="https://codepen.io/pen/"> Codepen</a> 🏓
-- Compartir actualizaciones <a href="https://www.linkedin.com/in/julio-melendez-ramos-630a202a0/">LinkedIn</a> 💼
-
+I'm a passionate **Software Engineer** dedicated to making open-source simpler and more accessible, building innovative **IoT** technologies to elevate people, and growing communities through code and collaboration.
 
 ---
-⭐️ From [Drey](https://github.com/GersonBlodia)
- 
+
+## 💼 Tech Stack
+
+### 🖥️ Frontend
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Vue.js
+- Tailwind CSS
+
+### ⚙️ Backend
+- Java
+- Spring Boot
+- PHP
+- Node.js (optional to mention if used)
+- Docker
+
+### 🛢️ Databases
+- SQL
+- MySQL
+- PostgreSQL
+
 ---
-![Anurag's GitHub stats]( https://github.com/GersonBlodia)
-
-
-<!--
-**Dreyuix/Dreyuix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
