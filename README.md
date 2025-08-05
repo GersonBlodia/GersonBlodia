@@ -1,6 +1,4 @@
-💬# Hello World! 👋💻 ![logo1](https://i.pinimg.com/originals/0e/05/5b/0e055bd6fc948f460fe50aa193ac36e6.jpg)
-
-![logo1](https://i.pinimg.com/originals/0e/05/5b/0e055bd6fc948f460fe50aa193ac36e6.jpg)
+💬# Hello World! 👋💻 
 
 I'm a passionate **Software Engineer** dedicated to making open-source simpler and more accessible, building innovative **IoT** technologies to elevate people, and growing communities through code and collaboration.
 
